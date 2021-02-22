@@ -5,14 +5,6 @@ Pintos is an educational 80x86 operating system framework developed by Ben Pfaff
 
 A link to the online Pintos documentation [can be found here](http://web.stanford.edu/class/cs140/projects/pintos/pintos_1.html#SEC1 "Pintos documentation").
 
-
-## Repository Setup
-Name: Tommy Trojan
-
-Email: ttrojan@usc.edu
-
-ID: 1234567890
-
 ## Important Dates
 <strong>Project 1 Due:</strong> September 23
 
